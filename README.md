@@ -2,7 +2,7 @@
 - 👀 Currently Learning Generative AI and Promt Engineering
 - 🌱 I’m working on improving my skill set as full stack developer
 - 💞️ Reach me at sudhakarjha819@gmail.com
-- 📫 Know more about me
+- 📫 Know more about me https://drive.google.com/file/d/1kQGsPkwDter85vuoqwR1PMzwTaMt8nWn/view
 
 <!---
 Sj3777/Sj3777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
